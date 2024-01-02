@@ -8,7 +8,7 @@ Reanalysis of the scRNA-seq and scTCR-seq data from [Cheon, I. S., 2021](https:/
 
 ## Data preparation
 
-The data was downloaded from [GSE176201](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176201), where 6 samples from 6 patients were sequenced with scRNA-seq and scTCR-seq.
+The data was downloaded from [GSE176201](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176201), where 6 samples from 5 patients were sequenced with scRNA-seq and scTCR-seq.
 
 See `prepare-data.sh` for details.
 
