@@ -1,0 +1,7 @@
+Sample	RNAData	TCRData
+s20201208	prepared-data/s20201208/filtered_feature_bc_matrix.h5	prepared-data/s20201208
+s20210119	prepared-data/s20210119/filtered_feature_bc_matrix.h5	prepared-data/s20210119
+s20210122_1	prepared-data/s20210122_1/filtered_feature_bc_matrix.h5	prepared-data/s20210122_1
+s20210122_2	prepared-data/s20210122_2/filtered_feature_bc_matrix.h5	prepared-data/s20210122_2
+s20210201	prepared-data/s20210201/filtered_feature_bc_matrix.h5	prepared-data/s20210201
+s20210203	prepared-data/s20210203/filtered_feature_bc_matrix.h5	prepared-data/s20210203
