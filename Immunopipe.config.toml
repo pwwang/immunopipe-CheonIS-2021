@@ -1,0 +1,20 @@
+[plugin_opts]
+args_dump = true
+
+[SampleInfo.in]
+infile = [ "data/samples.txt" ]
+
+[SeuratClusteringOfAllCells.envs]
+FindClusters = {resolution = 1.6}
+
+[TCellSelection]
+
+[SeuratClusterStats.envs.dimplots.UMAP]
+
+[SeuratClusterStats.envs.features."Signature gene expression"]
+kind = "dot"
+features = [
+    "HOPX", "ZNF683", "ITGAE", "ID2", "GZMK", "EOMES", "TIGIT", "CD27", "KLRG1",
+    "NKG7", "NR4A2", "TNF", "ITGA4", "IL7R", "CD28", "CXCR6", "PRF1", "CD69",
+    "IFNG", "GZMA",
+]
